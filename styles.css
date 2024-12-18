@@ -152,14 +152,12 @@ body {
 }
 
 .quote-container .quote {
-    border: 2px solid cyan;
     font-size: 36px;
     color: #1F2937;
     font-style: italic;
 }
 
 .quote-container .author {
-    border: 2px solid cyan;
     padding-right: 24px;
     font-size: 24px;
     color: #1F2937;
