@@ -10,8 +10,8 @@ body {
 .header {
     display: flex;
     background-color: #1F2937;
-    padding-left: 15vw;
-    padding-right: 15vw;
+    padding-left: 23vw;
+    padding-right: 23vw;
     padding-top: 2vh;
     padding-bottom: 2vh;
     justify-content: space-between;
@@ -46,8 +46,8 @@ body {
     gap: 50px;
     height: 20vh;
     background-color: #1F2937;
-    padding-left: 15vw;
-    padding-right: 15vw;
+    padding-left: 23vw;
+    padding-right: 23vw;
     padding-top: 10vh;
     padding-bottom: 10vh;
 }
@@ -70,6 +70,7 @@ body {
 .hero-left .hero-text {
     color: #E5E7EB;
     font-size: 18px;
+    margin-bottom: 10px;
 }
 
 .hero-left button {
@@ -103,10 +104,13 @@ body {
 }
 
 .content .header {
+    border: 3px solid cyan;
     background-color: white;
     font-size: 36px;
     margin-top: 36px;
     margin-bottom: 36px;
+    padding-left: 0;
+    padding-right: 0;
     color: #1F2937;
     font-weight: 900;
     text-align: center;
@@ -143,8 +147,8 @@ body {
     background-color: #E5E7EB;
     padding-top: 72px;
     padding-bottom: 72px;
-    padding-left: 20vw;
-    padding-right: 20vw;
+    padding-left: 26vw;
+    padding-right: 26vw;
 
 }
 
@@ -157,6 +161,7 @@ body {
 
 .quote-container .author {
     border: 2px solid cyan;
+    padding-right: 24px;
     font-size: 24px;
     color: #1F2937;
     font-weight: 900;
